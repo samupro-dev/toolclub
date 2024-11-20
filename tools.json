@@ -1,0 +1,172 @@
+{
+	"tools": {
+	  "id_1": {
+		"name": "System Informer",
+		"url": "https://github.com/winsiderss/si-builds/releases/download/3.0.7645/systeminformer-3.0.7645-canary-setup.exe",
+		"image": "https://i.imgur.com/ZOQl9SY.png",
+		"os": "Windows OS",
+		"id": "system_informer",
+		"enable": true
+	  },
+	  "id_2": {
+		"name": "Process Hacker 2",
+		"url": "https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download",
+		"image": "https://i.imgur.com/uNLQcpm.png",
+		"os": "Windows OS",
+		"id": "process_hacker_2",
+		"enable": true
+	  },
+	  "id_3": {
+		"name": "LastActivityView",
+		"url": "https://www.nirsoft.net/utils/lastactivityview.zip",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "lastactivityview",
+		"enable": true
+	  },
+	  "id_4": {
+		"name": "USBDeview",
+		"url": "https://www.nirsoft.net/utils/usbdeview-x64.zip",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "usbdeview",
+		"enable": true
+	  },
+	  "id_5": {
+		"name": "VMMap",
+		"url": "https://download.sysinternals.com/files/VMMap.zip",
+		"image": "https://i.imgur.com/NGfvAiN.png",
+		"os": "Windows OS",
+		"id": "vmmap",
+		"enable": true
+	  },
+	  "id_6": {
+		"name": "UserAssistView",
+		"url": "https://www.nirsoft.net/utils/userassistview.zip",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "userassistview",
+		"enable": true
+	  },
+	  "id_7": {
+		"name": "Luyten",
+		"url": "https://github.com/deathmarine/Luyten/releases/download/v0.5.4_Rebuilt_with_Latest_depenencies/luyten-0.5.4.jar",
+		"image": "https://i.imgur.com/MbzrDXK.png",
+		"os": "Windows OS/MacOS",
+		"id": "luyten",
+		"enable": true
+	  },
+	  "id_8": {
+		"name": "PreviousFilesRecovery",
+		"url": "https://www.nirsoft.net/utils/previousfilesrecovery-x64.zip",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "previousfilesrecovery",
+		"enable": true
+	  },
+	  "id_9": {
+		"name": "ExecutedProgramsList",
+		"url": "https://www.nirsoft.net/utils/executedprogramslist.zip",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "executedprogramslist",
+		"enable": true
+	  },
+	  "id_10": {
+		"name": "RegScanner",
+		"url": "https://www.nirsoft.net/utils/regscanner-x64.zip",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "regscanner",
+		"enable": true
+	  },
+	  "id_11": {
+		"name": "Astral",
+		"url": "https://astraltool.netlify.app/Astral.rar",
+		"image": "https://i.imgur.com/WlBd7Uh.png",
+		"os": "Windows OS",
+		"id": "astral",
+		"enable": true
+	  },
+	  "id_12": {
+		"name": "Everything",
+		"url": "https://www.voidtools.com/Everything-1.4.1.1024.x64.zip",
+		"image": "https://i.imgur.com/cW6610z.png",
+		"os": "Windows OS",
+		"id": "everything",
+		"enable": true
+	  },
+	  "id_13": {
+		"name": "Process Explorer",
+		"url": "https://download.sysinternals.com/files/ProcessExplorer.zip",
+		"image": "https://i.imgur.com/1G5a4wa.png",
+		"os": "Windows OS",
+		"id": "process_explorer",
+		"enable": true
+	  },
+	  "id_14": {
+		"name": "WinPrefetchView",
+		"url": "https://www.nirsoft.net/utils/winprefetchview-x64.zip",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "winprefetchview",
+		"enable": true
+	  },
+	  "id_15": {
+		"name": "AlternateStreamView",
+		"url": "https://www.nirsoft.net/utils/alternatestreamview-x64.zip",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "alternatestreamview",
+		"enable": true
+	  },
+	  "id_16": {
+		"name": "JournalTrace",
+		"url": "https://github.com/ponei/JournalTrace/releases/download/1.0/JournalTrace.exe",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "journaltrace",
+		"enable": true
+	  },
+	  "id_17": {
+		"name": "Service-Execution",
+		"url": "https://github.com/Zack-src/Service-Execution/releases/download/1.0/Service-Execution.exe",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "service-execution",
+		"enable": true
+	  },
+	  "id_18": {
+		"name": "InjectedDLL",
+		"url": "https://www.nirsoft.net/utils/injecteddll.zip",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "injecteddll",
+		"enable": true
+	  },
+	  "id_19": {
+		"name": "BrowsingHistoryView",
+		"url": "https://www.nirsoft.net/utils/browsinghistoryview-x64.zip",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "browsinghistoryview",
+		"enable": true
+	  },
+	  "id_20": {
+		"name": "UserAssistViewer",
+		"url": "https://www.nirsoft.net/utils/userassistview.zip",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "userassistviewer",
+		"enable": true
+	  },
+	  "id_21": {
+		"name": "Echo Free",
+		"url": "https://echo.ac/free",
+		"image": "no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "echo_free",
+		"enable": true
+	  }
+	}
+}
