@@ -167,6 +167,14 @@
 		"os": "Windows OS",
 		"id": "echo_free",
 		"enable": true
+	  },
+	  "id_22": {
+		"name": "RecentFilesView",
+		"url": "https://www.nirsoft.net/utils/recentfilesview.zip",
+		"image": "img/no_tool_icon.png",
+		"os": "Windows OS",
+		"id": "recentfilesview",
+		"enable": true
 	  }
 	}
 }
