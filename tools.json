@@ -2,7 +2,7 @@
 	"tools": {
 	  "id_1": {
 		"name": "System Informer",
-		"url": "https://github.com/winsiderss/si-builds/releases/download/3.0.7645/systeminformer-3.0.7645-canary-setup.exe",
+		"url": "https://github.com/winsiderss/si-builds/releases/download/3.2.25347.754/systeminformer-build-canary-setup.exe",
 		"image": "https://i.imgur.com/ZOQl9SY.png",
 		"os": "Windows OS",
 		"id": "system_informer",
@@ -90,7 +90,7 @@
 	  },
 	  "id_12": {
 		"name": "Everything",
-		"url": "https://www.voidtools.com/Everything-1.4.1.1024.x64.zip",
+		"url": "https://www.voidtools.com/Everything-1.4.1.1030.x64.zip",
 		"image": "https://i.imgur.com/cW6610z.png",
 		"os": "Windows OS",
 		"id": "everything",
